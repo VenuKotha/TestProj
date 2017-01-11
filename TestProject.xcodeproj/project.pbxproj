@@ -430,7 +430,7 @@
 				DEVELOPMENT_TEAM = 57EMC6ZB6J;
 				INFOPLIST_FILE = TestProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.m-ize.TestProject";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.TestProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -442,7 +442,7 @@
 				DEVELOPMENT_TEAM = 57EMC6ZB6J;
 				INFOPLIST_FILE = TestProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.m-ize.TestProject";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.TestProject;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -454,7 +454,7 @@
 				DEVELOPMENT_TEAM = 57EMC6ZB6J;
 				INFOPLIST_FILE = TestProjectTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.m-ize.TestProjectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.TestProjectTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestProject.app/TestProject";
 			};
@@ -467,7 +467,7 @@
 				DEVELOPMENT_TEAM = 57EMC6ZB6J;
 				INFOPLIST_FILE = TestProjectTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.m-ize.TestProjectTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.TestProjectTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TestProject.app/TestProject";
 			};
@@ -479,7 +479,7 @@
 				DEVELOPMENT_TEAM = 57EMC6ZB6J;
 				INFOPLIST_FILE = TestProjectUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.m-ize.TestProjectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.TestProjectUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = TestProject;
 			};
@@ -491,7 +491,7 @@
 				DEVELOPMENT_TEAM = 57EMC6ZB6J;
 				INFOPLIST_FILE = TestProjectUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.m-ize.TestProjectUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xxx.TestProjectUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_TARGET_NAME = TestProject;
 			};
